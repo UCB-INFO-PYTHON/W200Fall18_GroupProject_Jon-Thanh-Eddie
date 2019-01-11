@@ -6,4 +6,4 @@ Team members: Jonathan Hilton, Thanh Le, Eddie Zhu.
 
 For this project, our team decided to analyze the correlations and potential cause / effect relationship of the variables between Chicago crimes data with Chicago traffic violations data and Chicago demographic data. 
 
-We have agreed to share the content within this Repo for educational purpose only, not to be distributed or use for any other purpose.  Thank you.
+We have agreed to share the content within this Repo with UCB MIDS program, for educational purpose only, not to be distributed or use for any other purpose.  Thank you.
